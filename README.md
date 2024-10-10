@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Python (Python for data Science)</b>
-  - [Variables and control structures](Variabl)
+  - [Variables and control structures](https://github.com/Mpho-Tshabalala/Variables-and-control-structures-)
 - <b>Data Science Projects (Relational Databases, SQL, Data visualisation, Tableau, Exploratory data analysis and Machine Learning concepts)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Machine Learning (Simple Linear Regression, Multiple Linear Regression, Logistic Regression)</b>
