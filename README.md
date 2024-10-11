@@ -6,7 +6,7 @@
   - [Variables and control structures](https://github.com/Mpho-Tshabalala/Variables-and-control-structures-)
   - [Small Bussiness Task Management System](https://github.com/Mpho-Tshabalala/Files-)
   - [Inventory Management System](https://github.com/Mpho-Tshabalala/Object-Oriented-Programming)
-- <b>Data Science Projects (Relational Databases, SQL, Data visualisation, Tableau, Exploratory data analysis and Machine Learning concepts)</b>
+- <b>Data Science and Analytics Projects (Relational Databases, SQL, Data visualisation, Tableau, Exploratory data analysis and Machine Learning concepts)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Machine Learning (Simple Linear Regression, Multiple Linear Regression, Logistic Regression)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
