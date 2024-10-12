@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mpho! <br/><a href="https://github.com/joshmadakor1">Data Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Bussiness Intelligence</a></h1>
+<h1>Hi, I'm Mpho! <br/>Data Engineer</a>, Data Analyst</a>, Bussiness Intelligence</a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
@@ -9,7 +9,8 @@
 - <b>Data Science and Analytics Projects (Relational Databases, SQL, Data visualisation, Tableau and Exploratory data analysis)</b>
   - [Relational Database Management System (RDMS)](https://github.com/Mpho-Tshabalala/Databases)
   - [Data Insights Using Tableau](https://github.com/Mpho-Tshabalala/Tableau)
-  - [Data visualisation and analysis](https://github.com/Mpho-Tshabalala/Data-Visualisation-and-Analysis) 
+  - [Data visualisation and analysis](https://github.com/Mpho-Tshabalala/Data-Visualisation-and-Analysis)
+  - [Exploratory Data Analysis](https://github.com/Mpho-Tshabalala/Exploratory-Data-Analysis)
 - <b>Machine Learning (Simple Linear Regression, Multiple Linear Regression, Logistic Regression)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
