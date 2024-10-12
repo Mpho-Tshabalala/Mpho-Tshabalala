@@ -11,6 +11,7 @@
   - [Data Insights Using Tableau](https://github.com/Mpho-Tshabalala/Tableau)
   - [Data visualisation and analysis](https://github.com/Mpho-Tshabalala/Data-Visualisation-and-Analysis)
   - [Exploratory Data Analysis](https://github.com/Mpho-Tshabalala/Exploratory-Data-Analysis)
+  - [Data Analysis](https://github.com/Mpho-Tshabalala/Data-Analysis)
 - <b>Machine Learning (Simple Linear Regression, Multiple Linear Regression, Logistic Regression)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
