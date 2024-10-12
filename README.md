@@ -8,7 +8,8 @@
   - [Inventory Management System](https://github.com/Mpho-Tshabalala/Object-Oriented-Programming)
 - <b>Data Science and Analytics Projects (Relational Databases, SQL, Data visualisation, Tableau and Exploratory data analysis)</b>
   - [Relational Database Management System (RDMS)](https://github.com/Mpho-Tshabalala/Databases)
-  - [Data Insights Using Tableau](https://github.com/Mpho-Tshabalala/Tableau) 
+  - [Data Insights Using Tableau](https://github.com/Mpho-Tshabalala/Tableau)
+  - [Data visualisation and analysis](https://github.com/Mpho-Tshabalala/Data-Visualisation-and-Analysis) 
 - <b>Machine Learning (Simple Linear Regression, Multiple Linear Regression, Logistic Regression)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
