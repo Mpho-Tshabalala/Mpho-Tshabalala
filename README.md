@@ -14,7 +14,7 @@
   - [Data Analysis](https://github.com/Mpho-Tshabalala/Data-Analysis)
 - <b>Final Year Physics Data related practicals</b>
   - [Monte Carlo Simulation](https://github.com/Mpho-Tshabalala/Monte-Carlo-SimulationC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Data Proccessing](https://github.com/Mpho-Tshabalala/Data-Processing)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>PowerBI</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
