@@ -17,7 +17,7 @@
   - [Data Proccessing](https://github.com/Mpho-Tshabalala/Data-Processing)
   - [Fourier Transforms](https://github.com/Mpho-Tshabalala/Fourier-Transforms)
 - <b>PowerBI</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - []()
 - <b>Certifications</b>
   - AWS Cloud Practitioner (Course Completion)
 
