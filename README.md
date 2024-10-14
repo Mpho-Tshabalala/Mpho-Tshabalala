@@ -13,7 +13,7 @@
   - [Exploratory Data Analysis](https://github.com/Mpho-Tshabalala/Exploratory-Data-Analysis)
   - [Data Analysis](https://github.com/Mpho-Tshabalala/Data-Analysis)
 - <b>Final Year Physics Data related practicals</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Monte Carlo Simulation](https://github.com/Mpho-Tshabalala/Monte-Carlo-SimulationC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>PowerBI</b>
