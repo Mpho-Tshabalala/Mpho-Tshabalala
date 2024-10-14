@@ -15,7 +15,7 @@
 - <b>Final Year Physics Data related practicals</b>
   - [Monte Carlo Simulation](https://github.com/Mpho-Tshabalala/Monte-Carlo-SimulationC)
   - [Data Proccessing](https://github.com/Mpho-Tshabalala/Data-Processing)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Fourier Transforms](https://github.com/Mpho-Tshabalala/Fourier-Transforms)
 - <b>PowerBI</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Certifications</b>
