@@ -17,7 +17,7 @@
   - [Data Proccessing](https://github.com/Mpho-Tshabalala/Data-Processing)
   - [Fourier Transforms](https://github.com/Mpho-Tshabalala/Fourier-Transforms)
 - <b>Machine Learning</b>
-  - [Logistic Regression]()
+  - [Logistic Regression](https://github.com/Mpho-Tshabalala/Logistic-Regression)
 - <b>Certifications</b>
   - AWS Cloud Practitioner (Course Completion)
 
