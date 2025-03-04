@@ -16,8 +16,8 @@
   - [Monte Carlo Simulation](https://github.com/Mpho-Tshabalala/Monte-Carlo-SimulationC)
   - [Data Proccessing](https://github.com/Mpho-Tshabalala/Data-Processing)
   - [Fourier Transforms](https://github.com/Mpho-Tshabalala/Fourier-Transforms)
-- <b>PowerBI</b>
-  - []()
+- <b>Machine Learning</b>
+  - [Logistic Regression]()
 - <b>Certifications</b>
   - AWS Cloud Practitioner (Course Completion)
 
