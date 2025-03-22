@@ -18,6 +18,7 @@
   - [Fourier Transforms](https://github.com/Mpho-Tshabalala/Fourier-Transforms)
 - <b>Machine Learning</b>
   - [Logistic Regression](https://github.com/Mpho-Tshabalala/Logistic-Regression)
+  - [Decision Trees](https://github.com/Mpho-Tshabalala/Decision-Trees)
 - <b>Certifications</b>
   - AWS Cloud Practitioner (Course Completion)
 
