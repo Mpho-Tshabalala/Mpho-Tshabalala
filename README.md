@@ -16,7 +16,7 @@
   - [Monte Carlo Simulation](https://github.com/Mpho-Tshabalala/Monte-Carlo-SimulationC)
   - [Data Proccessing](https://github.com/Mpho-Tshabalala/Data-Processing)
   - [Fourier Transforms](https://github.com/Mpho-Tshabalala/Fourier-Transforms)
-- <b>Machine Learning</b>
+- <b>Machine Learning and AI</b>
   - [Logistic Regression](https://github.com/Mpho-Tshabalala/Logistic-Regression)
   - [Decision Trees](https://github.com/Mpho-Tshabalala/Decision-Trees)
 - <b>Certifications</b>
