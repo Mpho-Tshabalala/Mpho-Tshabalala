@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mpho! <br/>Data Engineer</a>, Data Analyst</a>, Bussiness Intelligence</a></h1>
+<h1>Hi, I'm Mpho! <br/>Data Engineer</a>, Data Analyst</a>, Bussiness Intelligence</a>, <br/>Machine Learning Engineer</a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
@@ -21,6 +21,7 @@
   - [Multiple Linear Regression](https://github.com/Mpho-Tshabalala/Multiple-Linear-Regression)
   - [Logistic Regression](https://github.com/Mpho-Tshabalala/Logistic-Regression)
   - [Decision Trees](https://github.com/Mpho-Tshabalala/Decision-Trees)
+  - [Image Processing](https://github.com/Mpho-Tshabalala/Image-Processing)
 - <b>Certifications</b>
   - AWS Cloud Practitioner (Course Completion)
 
