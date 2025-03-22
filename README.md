@@ -17,7 +17,8 @@
   - [Data Proccessing](https://github.com/Mpho-Tshabalala/Data-Processing)
   - [Fourier Transforms](https://github.com/Mpho-Tshabalala/Fourier-Transforms)
 - <b>Machine Learning and AI</b>
-  - [Simple Linear Regression](https://github.com/Mpho-Tshabalala/Simple-Linear-Regression/tree/main)
+  - [Simple Linear Regression](https://github.com/Mpho-Tshabalala/Simple-Linear-Regression)
+  - [Multiple Linear Regression](https://github.com/Mpho-Tshabalala/Multiple-Linear-Regression)
   - [Logistic Regression](https://github.com/Mpho-Tshabalala/Logistic-Regression)
   - [Decision Trees](https://github.com/Mpho-Tshabalala/Decision-Trees)
 - <b>Certifications</b>
