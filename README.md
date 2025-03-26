@@ -22,6 +22,7 @@
   - [Logistic Regression](https://github.com/Mpho-Tshabalala/Logistic-Regression)
   - [Decision Trees](https://github.com/Mpho-Tshabalala/Decision-Trees)
   - [Image Processing](https://github.com/Mpho-Tshabalala/Image-Processing)
+  - [Developement Classification](https://github.com/Mpho-Tshabalala/Developement-Classification)
 - <b>Certifications</b>
   - AWS Cloud Practitioner (Course Completion)
 
