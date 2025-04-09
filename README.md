@@ -23,6 +23,7 @@
   - [Decision Trees](https://github.com/Mpho-Tshabalala/Decision-Trees)
   - [Image Processing](https://github.com/Mpho-Tshabalala/Image-Processing)
   - [Economic Developement Classification](https://github.com/Mpho-Tshabalala/Developement-Classification)
+  - [US Arrests Principal Component Analysis](https://github.com/Mpho-Tshabalala/Principal-Component-Analysis)
 - <b>Certifications</b>
   - AWS Cloud Practitioner (Course Completion)
 
